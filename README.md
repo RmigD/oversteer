@@ -150,7 +150,7 @@ Restart your computer, or reload udev rules with command:
 
 Install all dependencies on Debian systems with the following command:
 
-`sudo apt git install python3 python3-distutils python3-gi python3-gi-cairo
+`sudo apt install git python3 python3-distutils python3-gi python3-gi-cairo
 python3-pyudev python3-xdg python3-evdev gettext meson appstream-util
 desktop-file-utils python3-matplotlib python3-scipy`
 
